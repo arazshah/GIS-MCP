@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ارومیه",
+        "timestamp": "2025-10-23T22:25:20.967937",
+        "country": "ایران",
+        "description": "ارومیه مرکز استان آذربایجان غربی و بزرگ‌ترین شهر این استان است."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          45.0447,
+          37.6024
+        ]
+      }
+    }
+  ]
+}
